@@ -9,3 +9,4 @@ Follow these instruction to deploy this example:
 5. npm install
 6. ionic serve -l -c -s -> To see if everything is working as it should
 7. ionic run android -l -c -s
+8. Good to go!
